@@ -16,5 +16,3 @@ The **Candidate CRUD Management System** is a Java-based application developed u
 - **Hibernate ORM**  
 - **MySQL Database**  
 - **Maven** (Dependency Management)  
-
-## 📂 Project Structure  
